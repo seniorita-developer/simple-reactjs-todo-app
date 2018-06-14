@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+}
+
+.btn {
+  background-color: blueviolet;
+  border-radius: 8px;
+  padding: 7px 10px;
+  border: none;
+  margin: 15px;
+  cursor: pointer;
+  color: white;
+}
+
+.container {
+  margin: auto;
+  margin-top: 5px;
+
+}
+
+.done {
+  color: red;
+}
+
+.undone {
+  color: blue;
+}
